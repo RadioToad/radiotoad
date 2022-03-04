@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+-- (not final)
+
 - 🔭 I’m currently working on a Discord Bot.
 - 🌱 I’m currently learning Python,JavaScript,C#,SQL and BOLT Coding. (It's a lot i know ;-;)
 - 👯 I’m looking to collaborate on VR related content/
