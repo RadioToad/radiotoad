@@ -3,7 +3,7 @@
 - (not final)
 
 - 🔭 I’m currently working on a Discord Bot.
-- 🌱 I’m currently learning Python,JavaScript,C#,SQL and BOLT Coding. (It's a lot i know ;-;)
+- 🌱 I’m currently learning Python,JavaScript,C#,SQL and Unity Bolt. (It's a lot i know ;-;)
 - 👯 I’m looking to collaborate on VR related content/
 - 🤔 I’m looking for help with possibly building a VR game something different to what's out there/
 - 💬 Ask me about anything VR related or discord.py / discord.js
